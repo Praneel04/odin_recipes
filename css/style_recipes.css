@@ -1,0 +1,26 @@
+.heading{
+    background-color: rgb(35, 29, 53);
+    color: rgb(201, 174, 125);
+}
+*{
+    background-color: rgb(160, 107, 124);
+    font-family: Helvetica, sans-serif;
+}
+p{
+    background-color: antiquewhite;
+    font-size: 16px;
+}
+.head-2{
+    color: rgb(31, 9, 90);
+}
+
+li{
+    background-color: rgb(17, 2, 43);
+    color: aliceblue;
+}
+.list{
+    color: rgb(189, 149, 109);
+}
+.head-3{
+    color: rgb(82, 16, 27);
+}
